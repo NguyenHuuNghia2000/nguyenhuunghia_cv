@@ -1,0 +1,53 @@
+.paper{
+	margin:0 auto;
+	background-color: #d3d3d3;
+	height: auto;
+	width: 60%;
+}
+.avatar{
+	float: left;
+	margin-left: 50px;
+}
+.avatar img{
+	height: 200px;
+	width: 200px;
+}
+.info
+{
+	margin-left: 300px;
+}
+.info img{
+	padding-top: 5px;
+}
+.enty{
+	padding-top: 50px;
+	
+}
+.content{
+	margin-left: 50px;
+	float: left;
+}
+.description{
+	margin-left: 300px;
+	font-size: 18px;
+
+}
+.content1{
+	margin-left: 50px;
+}
+.sk{
+	margin-left: 60px;
+	float: left;
+	padding-top: 20px;
+}
+.thongtin{
+	margin-left: 300px;
+	padding-top: 20px;
+}
+
+
+
+
+
+
+
